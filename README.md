@@ -8,6 +8,17 @@
 [![University](https://img.shields.io/badge/University-%CE%91%CE%A0%CE%98-red.svg)](http://ascc.ee.auth.gr/?page_id=11)
 
 
+<html>
+   <head>
+      <title>HTML Video embed</title>
+   </head>
+   <body>
+      <p>Learn Eclipse</p>
+      <br />
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9iQsoq3TLE0" frameborder="0" allowfullscreen></iframe>
+      </iframe>
+   </body>
+</html>
 
 
 <video width="320" height="240" controls>
