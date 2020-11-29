@@ -7,7 +7,7 @@
 [![audio_visualizer](https://img.shields.io/badge/audio-%20visualizer-blue)](https://github.com/pasquale90/the_SMOD_project)
 [![University](https://img.shields.io/badge/University-%CE%91%CE%A0%CE%98-red.svg)](http://ascc.ee.auth.gr/?page_id=11)
 
-
+<!DOCTYPE html>
 <html>
    <head>
       <title>HTML Video embed</title>
