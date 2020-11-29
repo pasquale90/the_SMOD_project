@@ -11,7 +11,7 @@
 
 [![Alt text for your video](https://i9.ytimg.com/vi/9iQsoq3TLE0/mq2.jpg?sqp=CJSYjv4F&rs=AOn4CLB0qjHAP3fUmVH2dY34cKCu9wMZOQ)](https://www.youtube.com/watch?v=9iQsoq3TLE0)
 
-[![the SmoD project - a complex visualization of sound using an artistic approach]https://j.gifs.com/VA3BN5.gif)](https://www.youtube.com/watch?v=9iQsoq3TLE0)
+[![the SmoD project - a complex visualization of sound using an artistic approach](https://j.gifs.com/VA3BN5.gif)](https://www.youtube.com/watch?v=9iQsoq3TLE0)
 
 the SmoD project - a complex visualization of sound using an artistic approach
 
