@@ -6,6 +6,7 @@
 [![audio_visualizer](https://img.shields.io/badge/audio-%20visualizer-blue)](https://github.com/pasquale90/the_SMOD_project)
 [![University](https://img.shields.io/badge/University-%CE%91%CE%A0%CE%98-red.svg)](http://ascc.ee.auth.gr/?page_id=11)
 
+[temporay link](https://www.youtube.com/watch?v=9iQsoq3TLE0)
 
 [![a complex visualization of sound using an artistic approach](https://j.gifs.com/VA3BN5.gif)](https://www.youtube.com/watch?v=9iQsoq3TLE0)
 
